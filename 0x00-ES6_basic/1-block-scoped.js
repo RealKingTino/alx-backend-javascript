@@ -7,6 +7,7 @@ export default function taskBlock(trueOrFalse) {
     const task = true;
     const task2 = false;
   }
+  /* enable variables */
 
   return [task, task2];
   }
