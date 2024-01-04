@@ -10,4 +10,4 @@ export default function taskBlock(trueOrFalse) {
   /* enable variables */
 
   return [task, task2];
-  }
+}
